@@ -147,3 +147,12 @@ img {
     font-size: 3rem;
   }
 }
+
+@media (width<375px) {
+  section p {
+    font-size: 1rem;
+  }
+  section h1 {
+    font-size: 2rem;
+  }
+}
